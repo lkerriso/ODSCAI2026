@@ -1,6 +1,6 @@
 # Fast, Cheap, and Accurate: Optimizing LLM Inference with vLLM and Quantization
 
-Welcome to this hands-on workshop for DeveloperWeek 2026. During our time, you'll learn practical techniques for deploying high-performance language models in production environments.
+Welcome to this hands-on workshop for ODSC AI 2026. During our time, you'll learn practical techniques for deploying high-performance language models in production environments.
 
 ## The Challenge
 
