@@ -1,7 +1,7 @@
 
 # Fast, Cheap, and Accurate: Optimizing LLM Inference with vLLM and Quantization
 
-Workshop materials from DeveloperWeek 2026 demonstrating practical LLM deployment optimization using vLLM and W8A8 quantization.
+Workshop materials from ODSC AI 2026 demonstrating practical LLM deployment optimization using vLLM and W8A8 quantization.
 
 ## Overview
 
