@@ -1,7 +1,7 @@
 ---
 site:
   title: "Fast, Cheap, and Accurate: Optimizing LLM Inference"
-  url: https://github.com/lkerriso/ODSCAI2026
+  url: https://lkerriso.github.io/ODSCAI2026
   start_page: modules::index.adoc
 
 content:
